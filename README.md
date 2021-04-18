@@ -1,6 +1,6 @@
 # Vanilla JavaScript
 
-![badge_release](https://img.shields.io/badge/release-v1.0.0-red.svg)
+![badge_release](https://img.shields.io/badge/release-1.0.0-red.svg)
 ![badge_contributors](https://img.shields.io/badge/contributors-1-orange.svg)
 ![badge_html](https://img.shields.io/badge/html-5-yellow.svg)
 ![badge_es](https://img.shields.io/badge/es-6-green.svg)
