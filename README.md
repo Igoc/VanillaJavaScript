@@ -5,7 +5,7 @@
 ![badge_html](https://img.shields.io/badge/html-5-yellow.svg)
 ![badge_es](https://img.shields.io/badge/es-6-green.svg)
 
-#### &nbsp; Vanilla javascript template <br/><br/>
+#### &nbsp; Vanilla JavaScript template <br/><br/>
 
 ## How to build
 
